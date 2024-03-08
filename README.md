@@ -1,2 +1,1 @@
-# SQL-Data-Cleaning-Project
-Data Cleaning
+Data Cleaning In SQL
